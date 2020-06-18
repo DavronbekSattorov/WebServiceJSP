@@ -9,8 +9,8 @@
 <body>
 
 <h1>Hello</h1>
-<p>Question 1: ${uname}</p>
-<p>Question 2: ${sname}</p>
+<p>Name: ${uname}</p>
+<p>Surname: ${sname}</p>
 <p>You have successfully completed!!!</p>
 
 </body>
